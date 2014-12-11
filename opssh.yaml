@@ -1,8 +1,8 @@
 hosts:
-    - scriptgeek.co
+    - hostname1
 auth:
-    user: oc
-    pass: harrywang
+    user: username
+    pass: password
 tasks:
     -
      name: uptime
