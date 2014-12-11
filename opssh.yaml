@@ -1,0 +1,17 @@
+hosts:
+    - scriptgeek.co
+auth:
+    user: oc
+    pass: harrywang
+tasks:
+    -
+     name: uptime
+     desc: check uptime 
+     uptime: 
+    - 
+     name: sar
+     desc: check sar
+     sar:
+
+
+
